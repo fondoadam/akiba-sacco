@@ -2,7 +2,7 @@
 
 **Every shilling, visible. A SACCO operating system for Kenyan SACCOs and chamas.**
 
-[**▶ Live demo**](https://akiba-sacco.vercel.app) · [More of my work](https://github.com/Legitimacy426) · [Hire me](mailto:adamfondo91@gmail.com)
+[**▶ Live demo**](https://akiba-sacco.vercel.app) · [More of my work](https://github.com/Legitimacy426) · [Hire me](mailto:fondoadam@f8ware.com)
 
 [![Akiba screenshot](screenshot.png)](https://akiba-sacco.vercel.app)
 
@@ -24,8 +24,8 @@ Expo · React Native · Convex · Better Auth · Tailwind (Uniwind) · Resend
 ## Source code
 
 This is a showcase repository. The source is private because it is a commercial product.
-I'm happy to walk through the architecture and code on a call. [Get in touch](mailto:adamfondo91@gmail.com).
+I'm happy to walk through the architecture and code on a call. [Get in touch](mailto:fondoadam@f8ware.com).
 
 ---
 
-Built by **[Fondo Adam](https://github.com/Legitimacy426)**: full-stack web & mobile engineer in Kenya. [Portfolio](https://fondo-full-stack-founder.vercel.app)
+Built by **[Fondo Adam](https://github.com/Legitimacy426)**: full-stack web & mobile engineer in Kenya. [Portfolio](https://fondoadam.f8ware.com)
